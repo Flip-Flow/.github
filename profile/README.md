@@ -58,40 +58,6 @@ A proprietary interpretation engine that:
 
 ---
 
-## Architecture overview
-
-Web Application
-      |
-      v
-FlipFlow Instrumentation Layer
-      |
-      +-- CDP Session Monitor
-      +-- Network Reconstruction Engine
-      +-- Domain Scanner
-      |
-      v
-Analysis Engine
-      |
-      +-- Finding Extraction
-      +-- Evidence Correlation
-      +-- Security Classification
-      |
-      v
-Cleo Reasoning System (Proprietary)
-      |
-      +-- Prioritisation Logic
-      +-- Attack Path Modelling
-      +-- Security Narrative Generation
-      |
-      v
-Output Layer
-      |
-      +-- Visual Intelligence Dashboard
-      +-- Reports
-      +-- Export Formats (JSON, PDF, HAR, Playwright)
-
----
-
 ## Key capabilities
 
 - Real-time application traffic monitoring
