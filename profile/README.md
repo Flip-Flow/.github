@@ -146,7 +146,7 @@ We focus on turning complex application behaviour into clear, actionable intelli
 
 Cleo is available at:
 
-https://www.flipflow.app
+https://cleo.flipflow.app
 
 Pricing and enterprise information:
 
